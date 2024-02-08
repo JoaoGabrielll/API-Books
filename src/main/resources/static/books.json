@@ -1,10 +1,10 @@
 {
-  "livros": [
+  "books": [
     {
-      "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
-      "autor": "Robert C. Martin",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
       "area": "Programação",
-      "imagem": "link_da_imagem_clean_code.jpg",
+      "image": "<Image_URL>",
       "editora": "Prentice Hall",
       "ano_publicacao": 2008,
       "isbn": "978-0132350884"
