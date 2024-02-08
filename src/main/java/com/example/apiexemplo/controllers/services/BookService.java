@@ -1,4 +1,4 @@
 package com.example.apiexemplo.controllers.services;
 
-public class BookSservice {
+public class BookService {
 }
