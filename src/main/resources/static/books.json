@@ -1,0 +1,49 @@
+{
+  "livros": [
+    {
+      "titulo": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "autor": "Robert C. Martin",
+      "area": "Programação",
+      "imagem": "link_da_imagem_clean_code.jpg",
+      "editora": "Prentice Hall",
+      "ano_publicacao": 2008,
+      "isbn": "978-0132350884"
+    },
+    {
+      "titulo": "Eloquent JavaScript: A Modern Introduction to Programming",
+      "autor": "Marijn Haverbeke",
+      "area": "JavaScript",
+      "imagem": "link_da_imagem_eloquent_javascript.jpg",
+      "editora": "No Starch Press",
+      "ano_publicacao": 2011,
+      "isbn": "978-1593275846"
+    },
+    {
+      "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "area": "Programação",
+      "imagem": "link_da_imagem_design_patterns.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 1994,
+      "isbn": "978-0201633610"
+    },
+    {
+      "titulo": "Python Crash Course: A Hands-On, Project-Based Introduction to Programming",
+      "autor": "Eric Matthes",
+      "area": "Python",
+      "imagem": "link_da_imagem_python_crash_course.jpg",
+      "editora": "No Starch Press",
+      "ano_publicacao": 2015,
+      "isbn": "978-1593276034"
+    },
+    {
+      "titulo": "The Pragmatic Programmer: Your Journey to Mastery",
+      "autor": "Dave Thomas, Andy Hunt",
+      "area": "Programação",
+      "imagem": "link_da_imagem_pragmatic_programmer.jpg",
+      "editora": "Addison-Wesley",
+      "ano_publicacao": 1999,
+      "isbn": "978-0201616224"
+    }
+  ]
+}
